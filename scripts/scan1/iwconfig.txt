@@ -1,0 +1,18 @@
+wlan0     IEEE 802.11  ESSID:"iPhone"  
+          Mode:Managed  Frequency:2.437 GHz  Access Point: E2:04:65:A2:D3:E8   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:on
+          Link Quality=32/70  Signal level=-78 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:59  Invalid misc:0   Missed beacon:0
+
+wlan1     IEEE 802.11  Mode:Monitor  Frequency:2.457 GHz  Tx-Power=18 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:off
+          
+wlan0mon  IEEE 802.11  Mode:Monitor  Frequency:2.437 GHz  Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          

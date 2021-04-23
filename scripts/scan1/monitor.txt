@@ -1,0 +1,2 @@
+wlan1     IEEE 802.11  Mode:Monitor  Frequency:2.457 GHz  Tx-Power=18 dBm   
+wlan0mon  IEEE 802.11  Mode:Monitor  Frequency:2.437 GHz  Tx-Power=31 dBm   

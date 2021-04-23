@@ -1,1 +1,1 @@
-echo "kali" | sudo -S bash /home/kali/scripts/scan.sh
+echo "kali" | sudo -S bash /home/kali/ArcticGhost/scripts/scan.sh

